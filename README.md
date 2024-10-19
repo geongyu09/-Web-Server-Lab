@@ -1,5 +1,13 @@
 ## Quick start
-python server.py
+
+### server.py
+`python server.py`
+
+### serverWithMultithread
+`python serverWithMultithread.py`
+
+### client
+`python client.py`
 
 ## Lab 1: Web Server Lab
 
